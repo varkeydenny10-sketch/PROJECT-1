@@ -1,0 +1,9 @@
+{
+  "name": "Copy of EcoGuard AI",
+  "description": "An AI-powered waste management platform connecting civilians with social service teams using geolocation and voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
